@@ -1,1 +1,5 @@
-https://youtu.be/pbvgm0aKRlU
+For Jetson nano
+https://youtu.be/GBF4ZiB0huQ
+
+For Jetson Orin nano/Orin nx
+https://youtu.be/anbMcWsagn8
