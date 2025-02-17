@@ -1,7 +1,7 @@
-# Jetson MINI CUBE NANO Case support Jetson NANO/Orin NANO/Orin NX/Xavier NX/TX2 NX
+# Jetson MINI CUBE NANO Case support Jetson NANO/Orin NANO SUPER/Orin NX SUPER/Xavier NX/TX2 NX
 ![]([https://github.com/YahboomTechnology/RaspberryPi-4WD-Car/blob/master/Yahboom_Pi4WD.png](https://github.com/YahboomTechnology/Jetson-CUBE-case/blob/main/Jetson_CUBE_Case.jpg))
 # Introduction
-The CUBE NANO case is a protective case specially designed for NVIDIA Jetson development boards. Made of C-shaped metal cold-rolled plate and high-quality acrylic material, it provides comprehensive protection and stable support for Jetson boards. It looks like a mini computer case, with a built-in cooling fan, RGB colorful light bar, OLED display, and power and reset buttons. Compatible with JETSON ORIN NANO/JETSON ORIN NX/JETSON NANO BO1/JETSON XAVIER NX/JETSON TX2-NX board.
+The CUBE NANO case is a protective case specially designed for NVIDIA Jetson development boards. Made of C-shaped metal cold-rolled plate and high-quality acrylic material, it provides comprehensive protection and stable support for Jetson boards. It looks like a mini computer case, with a built-in cooling fan, RGB colorful light bar, OLED display, and power and reset buttons. Compatible with JETSON ORIN NANO SUPER/JETSON ORIN NX SUPER/JETSON NANO B01/JETSON XAVIER NX/JETSON TX2-NX board.
 # Features
 * Powerful protection function: It can effectively prevent the Jetson development board from being damaged by external collisions, dust or other substances, and prolong its service life.
 * Perfect transparency + OLED real-time display: The side is made of translucent acrylic material, so that you can clearly see the working status of the development board.
